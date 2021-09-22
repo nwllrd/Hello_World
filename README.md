@@ -1,5 +1,3 @@
-# Table of Contents
-
 # Project Title
 **Hello World**
 
