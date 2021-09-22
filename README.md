@@ -1,7 +1,10 @@
-# Hello_World
+# Project Title
+**Hello World**
 
-My name is Noah Willard. I am a current junior at the University of Iowa majoring in Accounting and BAIS.
+# Description
+This is a sample Hello World project practicing GitHub
 
-I am excited to learn more about the world of Business Analytics and what I can contribute to it.
+# About me
+My name is Noah Willard and I am a currently a junior at the University of Iowa majoring in Accounting and BAIS.
 
-Keep a lookout for updates to my coding/data skills!
+Updates to my coding skills will be refelectd here on my GitHub!
